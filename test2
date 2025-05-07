@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head><meta charset="utf-8"><title>Voice Button</title></head>
-<body>
-<div id="vapi-button"></div>
-
 <script>
   const assistant = "04679032-2b78-446c-9a95-bfc719ef7a66";               // your Assistant ID
   const apiKey    = "414f3957-a9b2-4140-9423-4a10cabf4761";       // your public key
@@ -20,5 +14,3 @@
      });
   })(document,"script");
 </script>
-</body>
-</html>
